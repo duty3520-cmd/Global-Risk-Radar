@@ -1,0 +1,7 @@
+{
+  "name": "Global Risk Radar — Market Entry Dashboard",
+  "description": "AI-Assisted Market Entry Decision Dashboard for International Business Environment, focusing on Winter/Cold-Climate Apparel and Established Exporter profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
